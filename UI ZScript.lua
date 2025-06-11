@@ -1,5 +1,5 @@
 -- ZScript UI for Blade Ball
--- Created by [Your Name]
+-- Created by [Đào Minh Dũng]
 -- Version 1.0
 
 local UserInputService = game:GetService("UserInputService")
